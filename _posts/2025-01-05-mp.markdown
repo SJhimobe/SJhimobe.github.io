@@ -1,0 +1,15 @@
+---
+layout:        post
+title:         "first web(test)
+author:        "SJhimobe"
+header-style:  text
+catalog:       true
+tags:
+    -  web
+    -  JavaScript
+---
+> SJhimobe (test) MarkDown
+
+JavaScript 常常被称为一门偶然成功的玩具语言，而实际上，它出身名门，更是成长在聚光灯之下。纵观历史，有资格被标准化的编程语言甚少，它因此成为多方角力的战场。
+
+- SJhimobe，软件工程师（）
